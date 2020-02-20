@@ -1,0 +1,7 @@
+d:\Users\Admin\source\repos\inheritance\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+d:\Users\Admin\source\repos\inheritance\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+d:\Users\Admin\source\repos\inheritance\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+d:\Users\Admin\source\repos\inheritance\ConsoleApp12\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\inheritance\ConsoleApp12\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+d:\Users\Admin\source\repos\inheritance\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+d:\Users\Admin\source\repos\inheritance\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
